@@ -1,0 +1,6 @@
+Proszę o ocenę testów:
+-TestNiepoprawnegoDodaniaCharakterystki
+-TestNiepoprawnegoDodawaniaProcesu
+-TestPoprawnegoDodaniaProcesu(processIsVisibleProcessesPageTest)
+-TestPoprawnegoDodawaniaCharakterystyki(characteristicIsVisibleCharacteristicsPageTest, characteristicIsVisibleDashboardPageTest)
+-TestRaportuDodanejCharakterystyki
